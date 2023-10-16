@@ -30,7 +30,7 @@ body {
 .lado-izquierdo {
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url('https://img.freepik.com/foto-gratis/experiencia-programacion-persona-que-trabaja-codigos-computadora_23-2150010125.jpg?w=1060&t=st=1697494814~exp=1697495414~hmac=315632d7e4256c7702ca5f36d69f6174f5ef58828ad69e1504c7983f5a5bc99f');
+    background-image: url('foto.jpg');
     height: 100vh;
     min-height: 500px;
 }
